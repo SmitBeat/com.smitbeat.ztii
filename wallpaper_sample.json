@@ -1,0 +1,54 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/01.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/01.Wallpaper.png",
+				"name": "Wallpaper 1"
+
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/02.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/02.Wallpaper.png",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/03.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/03.Wallpaper.png",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/04.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/04.Wallpaper.JPG",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/05.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/05.Wallpaper.JPG",
+				"name": "Wallpaper 5"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/06.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/06.Wallpaper.JPG",
+				"name": "Wallpaper 6"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/07.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/07.Wallpaper.JPG",
+				"name": "Wallpaper 7"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/08.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.ztii/master/08.Wallpaper.JPG",
+				"name": "Wallpaper 8"
+			}
+		]
+}
